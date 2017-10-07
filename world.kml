@@ -1,0 +1,451 @@
+<?xml version="1.0" ?><kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>7 Wonders of the World Tour!.kmz</name>
+	<Style id="sh_icon48_copy1">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon48.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_icon56">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon56</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon48</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon56_copy2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon56_copy2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon48_copy2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon56">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_icon48_copy8">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon48.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_icon48_copy6">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon48.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_icon56_copy9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon56_copy9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon48_copy9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon56_copy0">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_icon48_copy5">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon48.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_icon56_copy5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon56_copy5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon48_copy5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon56_copy4">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_icon56_copy1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon56_copy1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon48_copy1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon56_copy5">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_icon48_copy0">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon48.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_icon56_copy8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon56_copy8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon48_copy8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon56_copy2">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_icon56_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon56_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon48_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon48_copy9">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon48.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_icon56_copy6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon56_copy6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon48_copy6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon56_copy8">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_icon48_copy4">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon48.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_icon56_copy4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon56_copy4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon48_copy4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon56_copy1">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_icon56_copy9">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_icon48_copy2">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon48.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_icon56_copy6">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_icon48">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon48.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00aa</color>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>7 Wonders of the World Tour!</name>
+		<open>1</open>
+		<description>This is a fun and exciting tour of the 7 Natural Wonders of the Wolrd. These wonders differ from any other wonders of our world, as they are not man made, but truly natural! These places are all places of breathtaking scenes and amazing views that will take your breath away, so please sit back, enjoy the tour and learn a thing or two about these amazing places while your at it! Enjoy!</description>
+		<Placemark>
+			<name>Start! - Peterborough, Ontario</name>
+			<description>Of course, we will be starting our great wolrd tour of the 7 Wonders in our beautiful home town of Peterborough, Ontario! I hope you're ready or alot of flying, because we're going around the world!</description>
+			<LookAt>
+				<longitude>-78.32974664886254</longitude>
+				<latitude>44.30163921618362</latitude>
+				<altitude>0</altitude>
+				<range>13432.68739927675</range>
+				<tilt>3.013030504950772e-012</tilt>
+				<heading>-0.00024207651376121</heading>
+			</LookAt>
+			<styleUrl>#msn_icon56_copy8</styleUrl>
+			<Point>
+				<coordinates>-78.33121958124474,44.29645582562842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stop #1 - The Grand Canyon, U.S.A</name>
+			<description>The Grand Canyon, located in Colorado is the largest gorge in the world with a 290 mile long range across the Colorado Plateau. From rim to rim it measures up to 18 miles across with an average widthe of 10 miles and an average depth of 1 mile. The canyon also has a wide selection of ecozones; there are as many ecological regions within the Grand Canyon as their are between Canada and Mexico. There is everything from snow to desert, and habitats for more than 400 animals and over 1500 plants. Since the Grand Canyon National Park was established in 1919, tourism has grown hugely with about 5 million visitors to the canyon every year.</description>
+			<LookAt>
+				<longitude>-113.240014</longitude>
+				<latitude>36.11452600000006</latitude>
+				<altitude>0</altitude>
+				<range>18641.60293503121</range>
+				<tilt>1.301710562541056e-012</tilt>
+				<heading>8.434641029744691e-015</heading>
+			</LookAt>
+			<styleUrl>#msn_icon56</styleUrl>
+			<Point>
+				<coordinates>-113.2400138888889,36.14438888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stop #2 - Paricutin Volcano, Mexico</name>
+			<description>Paricutin Volcano is located in the Mexican state of Michoacan, and literally appeared out of nowhere! As a famrer was readying his fields in the spring, the ground beneath him began to shake, opening up a hole about 150 ft. long, which then raised the ground up about 2 and a half meters high. By the next morning, the volcano had risen up to 30 ft. and was violently throwing out rocks, continuing to grow another 120 ft. that day throwing rocks and lava up to 1000 ft. in the air. Within that same year the volcano reached 1,100 ft. which would be four fifths of its final height, and left ashes falling on cities as far away as Mexico City. The volcano had appeared in an area well know for volcanoes called the Mexican Volcano Belt which stretches 700 miles east to west along souther Mexico.</description>
+			<LookAt>
+				<longitude>-101.9816561381391</longitude>
+				<latitude>19.532995949879</latitude>
+				<altitude>0</altitude>
+				<range>79952.0702561636</range>
+				<tilt>4.66193243001773e-026</tilt>
+				<heading>4.481467727459704e-005</heading>
+			</LookAt>
+			<styleUrl>#msn_icon56_copy0</styleUrl>
+			<Point>
+				<coordinates>-102.2405291948281,19.48327194920295,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stop #3 - Rio De Janeiro Harbour, Rio De Janeiro</name>
+			<description>The Portugese discovered the Harbour of Rio De Janeiro in the 16th century, and because of the narrow entrance of the harbour which stretches 20 miles inland, and the beautiful mountains surrounding the opening of the harbour, they thought they had found the entrance to a great inland river; they named the area River of the First January, as they had discovered it on January 1st, of 1502. The bay that appeared as a river is said to be only one of the many illusions that Rio held, and discovers said that because of the such strange and striking shapes and forms that surrounded the bay, almost everything appeared as something else! One of the most famous sights of the bay is the Corcovado Mountain which lies bare and lopsided and now is home to a  huge statue of Christ the Redeemer.</description>
+			<LookAt>
+				<longitude>-43.19651465424074</longitude>
+				<latitude>-22.89732349217304</latitude>
+				<altitude>0</altitude>
+				<range>8459.32386684771</range>
+				<tilt>2.961588378931866e-012</tilt>
+				<heading>0.01566658870566902</heading>
+			</LookAt>
+			<styleUrl>#msn_icon56_copy1</styleUrl>
+			<Point>
+				<coordinates>-43.1879756649956,-22.89383583837741,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stop #4 - Victoria Falls, Zimbabwe</name>
+			<description>Victoria Falls are the largest waterfalls in the world, and they are so large that it is said the best place to see them may possibly be from the air. The falls seperate Zimbabwe from Zambia, and are lined with a beautiful forest and serene lagoons where deadly hippo's and crocdiles can be found. Visitors have the option of a wide range of activities to explore the falls, which include kayaking, fishing, canoeing, walking safaris, horseback riding, or a flight over the falls. Whichever your choice it's sure to be exciting!</description>
+			<LookAt>
+				<longitude>25.83753000000006</longitude>
+				<latitude>-17.93508899999998</latitude>
+				<altitude>0</altitude>
+				<range>9488.56185467214</range>
+				<tilt>4.957643143662753e-012</tilt>
+				<heading>-1.793753339328504e-014</heading>
+			</LookAt>
+			<styleUrl>#msn_icon56_copy4</styleUrl>
+			<Point>
+				<coordinates>25.85924489750097,-17.93289658717635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stop #5 - Mount Everst, Nepal</name>
+			<description>Mount Everest is of course, the highest mountain in the world! It is part of the Himilayan mountain range,  located in Nepal. The first expedition to ever reach the top was in 1953, and this was also the eigth attempt. It's height reaches 29,028 ft. and although most may not want to climb the mountain fully, there are many camps at lower levels which tourists can visit until they feel they've gone far enough!</description>
+			<LookAt>
+				<longitude>86.93333300000005</longitude>
+				<latitude>27.98333300000001</latitude>
+				<altitude>0</altitude>
+				<range>9400.531265895226</range>
+				<tilt>2.171303055167741e-012</tilt>
+				<heading>-4.170889626887373e-015</heading>
+			</LookAt>
+			<styleUrl>#msn_icon56_copy5</styleUrl>
+			<Point>
+				<coordinates>86.94381245648268,27.99506677671201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stop #6 - The Great Barrier Reef, Australia</name>
+			<description>The Great Barrier Reef is located on Australia's Gold Coast and spans more than 2000 km. It is home to thousands of plant and animal species and the Australian government has designated it as a protected Marine Park. Because the reef spans in a north to south direction, it travels thourgh many different climates, with rain forests and mountains more predominant in the north and coral cay more predominant in the south. There is a wide range of activities for tourists to explore the coral reef, which include scuba diving, swimming, snorkelling, a variety of watersports, boating, birdwatching, etc. The opportunities are endless!</description>
+			<LookAt>
+				<longitude>147.0117272448155</longitude>
+				<latitude>-18.28486842005597</latitude>
+				<altitude>0</altitude>
+				<range>1783957.599957858</range>
+				<tilt>5.696521162783146e-013</tilt>
+				<heading>0.2159492331368456</heading>
+			</LookAt>
+			<styleUrl>#msn_icon56_copy6</styleUrl>
+			<Point>
+				<coordinates>147.7738507813772,-18.53114834955963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stop #7 - The Northern Lights, Nothwest Territories</name>
+			<description>We are going to be stopping in the city of Yellowknife in the Northwest Territories to view the spectacular Northern Lights. The northern lights have been bringing wonder and terror to the people of the north for thousands of years. Over the years many myths and stories had been created by these people to try and help them understand this phenomenon in the sky. From 'fox fires',  to dancing souls, to messages from their dead, each tribe had their own way of explaining the beautiful lights. The lights are actually produced from strong solar winds that come into contact with the earth's magnetic field and as the winds become trapped in these magnetic fields, the oxygen and nitrogen that are produded clash with eachother and create the colours and pictures that we see from the ground. The clash produces awe-inspiring lights and patterns and produce many colours from green, bright pink, blue and violet. The lights form a 2,000 mile wide oval over the noth poles, and have been known to shine as far down as Mexico. This phenomenon can be seen day in and day out regardless the time of year in the far north of Canada. </description>
+			<LookAt>
+				<longitude>-114.3712500010721</longitude>
+				<latitude>62.45432116004999</latitude>
+				<altitude>0</altitude>
+				<range>2470391.168706591</range>
+				<tilt>0</tilt>
+				<heading>6.293440324688252e-010</heading>
+			</LookAt>
+			<styleUrl>#msn_icon56_copy2</styleUrl>
+			<Point>
+				<coordinates>-114.3712500010722,62.45432116005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stop #8 - Home Sweet Home!</name>
+			<description>Well I hope you have enjoyed our trip around the world as much as I have! Getting a chance to see the top 7 Natural Wonders of the World will definently be a highlight I will never forget! I hope you're not too tired and that yo got to learn a few new things too. Thanks for coming for the ride!</description>
+			<LookAt>
+				<longitude>-78.32974664886251</longitude>
+				<latitude>44.3016392161836</latitude>
+				<altitude>0</altitude>
+				<range>13432.77188855148</range>
+				<tilt>-4.005382099803507e-012</tilt>
+				<heading>-0.000242076513747515</heading>
+			</LookAt>
+			<styleUrl>#msn_icon56_copy9</styleUrl>
+			<Point>
+				<coordinates>-78.32974664886251,44.3016392161836,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
