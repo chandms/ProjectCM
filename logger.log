@@ -1,0 +1,551 @@
+12/15/2017 07:41:08 PM Monitoring starts in folderkmz
+12/15/2017 07:41:18 PM New KMZ files are added
+12/15/2017 07:41:18 PM KMZ file is passed as argument to kmz_to_kml function
+12/15/2017 07:41:18 PM Reading the KMZ file
+12/15/2017 07:41:18 PM No kml file is there
+12/15/2017 07:41:18 PM Checking if the file ends with .kml
+12/15/2017 07:41:18 PM writing kml in specified file
+12/15/2017 07:41:18 PM Obtained kml file is generically parsed
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node contains CDATA
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Checking if the node has any attribute?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Checking if the node has any attribute?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Checking if the node has any attribute?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Checking if the node has any attribute?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Lat long value is stored in used_coord
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Checking if the node has any attribute?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Checking if the node has any attribute?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Checking if the node has any attribute?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Checking if the node has any attribute?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Checking if the node has any attribute?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is Element node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM Checking if the node is text node?
+12/15/2017 07:41:18 PM Starting print_node
+12/15/2017 07:41:18 PM kml file is converted to geojson format1
+12/15/2017 07:41:18 PM kml file is converted to geojson format2
+12/15/2017 07:41:18 PM kml file is converted to geojson format3
+12/15/2017 07:41:18 PM Mongo Client is fetched
+12/15/2017 07:41:18 PM gis is the new db
+12/15/2017 07:41:18 PM id of the new collection is printed
+12/15/2017 07:41:18 PM user must input no of lat long s
+12/15/2017 07:41:23 PM Monitoring starts in folderkmz
+12/15/2017 07:41:33 PM Monitoring starts in folderkmz
+12/15/2017 07:41:43 PM New KMZ files are added
+12/15/2017 07:41:43 PM KMZ file is passed as argument to kmz_to_kml function
+12/15/2017 07:41:43 PM Reading the KMZ file
+12/15/2017 07:41:43 PM No kml file is there
+12/15/2017 07:41:43 PM Checking if the file ends with .kml
+12/15/2017 07:41:43 PM writing kml in specified file
+12/15/2017 07:41:43 PM Obtained kml file is generically parsed
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node contains CDATA
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Checking if the node has any attribute?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Checking if the node has any attribute?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Checking if the node has any attribute?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Checking if the node has any attribute?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Lat long value is stored in used_coord
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Checking if the node has any attribute?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Checking if the node has any attribute?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Checking if the node has any attribute?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Checking if the node has any attribute?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Checking if the node has any attribute?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Checking if the node has any attribute?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is Element node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM Checking if the node is text node?
+12/15/2017 07:41:43 PM Starting print_node
+12/15/2017 07:41:43 PM kml file is converted to geojson format1
+12/15/2017 07:41:43 PM kml file is converted to geojson format2
+12/15/2017 07:41:43 PM kml file is converted to geojson format3
+12/15/2017 07:41:43 PM Mongo Client is fetched
+12/15/2017 07:41:43 PM gis is the new db
+12/15/2017 07:41:43 PM id of the new collection is printed
+12/15/2017 07:41:43 PM user must input no of lat long s
+12/15/2017 07:41:45 PM KMZ file is passed as argument to kmz_to_kml function
+12/15/2017 07:41:45 PM Reading the KMZ file
+12/15/2017 07:41:45 PM No kml file is there
+12/15/2017 07:41:45 PM Checking if the file ends with .kml
+12/15/2017 07:41:45 PM writing kml in specified file
+12/15/2017 07:41:45 PM Obtained kml file is generically parsed
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node contains CDATA
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Checking if the node has any attribute?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Checking if the node has any attribute?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Checking if the node has any attribute?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Checking if the node has any attribute?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Lat long value is stored in used_coord
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Checking if the node has any attribute?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Checking if the node has any attribute?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Checking if the node has any attribute?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Checking if the node has any attribute?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Checking if the node has any attribute?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Checking if the node has any attribute?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is Element node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM Checking if the node is text node?
+12/15/2017 07:41:45 PM Starting print_node
+12/15/2017 07:41:45 PM kml file is converted to geojson format1
+12/15/2017 07:41:45 PM kml file is converted to geojson format2
+12/15/2017 07:41:45 PM kml file is converted to geojson format3
+12/15/2017 07:41:45 PM Mongo Client is fetched
+12/15/2017 07:41:45 PM gis is the new db
+12/15/2017 07:41:45 PM id of the new collection is printed
+12/15/2017 07:41:45 PM user must input no of lat long s
+12/15/2017 07:41:47 PM User input is not zero
+12/15/2017 07:42:03 PM bloomf instace is created
+12/15/2017 07:42:03 PM new seplist are shuffled
+12/15/2017 07:42:03 PM Checking of elements using bloom filter
+12/15/2017 07:42:03 PM 100% not present
+12/15/2017 07:42:03 PM Checking of elements using bloom filter
+12/15/2017 07:42:03 PM may be present
+12/15/2017 07:42:03 PM Checking of elements using bloom filter
+12/15/2017 07:42:03 PM 100% not present
+12/15/2017 07:42:03 PM Checking of elements using bloom filter
+12/15/2017 07:42:03 PM 100% not present
+12/15/2017 07:42:03 PM Checking of elements using bloom filter
+12/15/2017 07:42:03 PM may be present
+12/15/2017 07:42:03 PM Checking of elements using bloom filter
+12/15/2017 07:42:03 PM may be present
+12/15/2017 07:42:03 PM Monitoring starts in folderkmz
