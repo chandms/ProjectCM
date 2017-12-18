@@ -1,8 +1,12 @@
 
 import kml2geojson
-from shapely.geometry import Polygon
+from shapely.geometry import Polygon,Point,MultiPolygon
 import json
+import configparser
 import fiona
+
+config=configparser.ConfigParser()
+config.read("C:/Users/Pupul/Desktop/config.ini")
 
 def mintolerance(pol1,pol2,l,u,x):
     m=(l+u)/2
@@ -22,24 +26,43 @@ def mintolerance(pol1,pol2,l,u,x):
         return mintolerance(pol1,pol2,m,u,x)
 
 
-kml2geojson.main.convert('C:/Users/Pupul/Desktop/ma1.kml','C:/Users/Pupul/Desktop')
-kml2geojson.main.convert('C:/Users/Pupul/Desktop/ma2.kml','C:/Users/Pupul/Desktop')
-pol1=Polygon([(0,0),(0,1),(1,1),(0,0)])
-pol2=Polygon([(0,0),(0,1),(1,1),(0,0)])
-with open('C:/Users/Pupul/Desktop/ma1.geojson') as f:
+kml2geojson.main.convert(config.get("Section6","path1"),config.get("Section7","path1"))
+kml2geojson.main.convert(config.get("Section6","path3"),config.get("Section7","path1"))
+kml2geojson.main.convert(config.get("Section6","path2"),config.get("Section7","path1"))
+pol1=Polygon()
+pol2=Polygon()
+with open(config.get("Section8","path7")) as f:
     data=json.load(f)
-
     for f in data["features"]:
-        print (f["geometry"]["type"])
+        x=f["geometry"]["type"]
+        print ("yes1",f["geometry"]["type"])
         k=f["geometry"]["coordinates"]
-        pol1=Polygon(k[0])
-with open('C:/Users/Pupul/Desktop/ma2.geojson') as f:
+        if(x=="Polygon"):
+            polr = Polygon(k[0])
+            pol1 = pol1.union(polr)
+        elif(x=="Point"):
+            polr=Point(k)
+            pol1=pol1.union(polr)
+        elif(x=="MultiPolygon"):
+            for j in range(len(k)):
+                polr=Polygon(k[j])
+                pol1=pol1.union(polr)
+with open(config.get("Section8","path9")) as f:
     data=json.load(f)
-
     for f in data["features"]:
-        print (f["geometry"]["type"])
-        k=f["geometry"]["coordinates"]
-        pol2=Polygon(k[0])
+        x=f["geometry"]["type"]
+        print ("yes",f["geometry"]["type"])
+        k = f["geometry"]["coordinates"]
+        if (x == "Polygon"):
+                polr = Polygon(k[0])
+                pol2=pol2.union(polr)
+        elif (x == "Point"):
+            polr = Point(k)
+            pol2 = pol2.union(polr)
+        elif (x == "MultiPolygon"):
+            for j in range(len(k)):
+                polr = Polygon(k[j])
+                pol2 = pol2.union(polr)
 print(pol1)
 area1=pol1.area
 area2=pol2.area
