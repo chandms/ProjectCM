@@ -1,0 +1,21 @@
+#for parser (gisimplementation)
+
+logging==0.5.1.2
+json==2.0.9
+pymongo==3.4.0
+xmljson==0.1.9
+configparser==3.5.0
+xmltodict==0.11.0
+
+#extraction of shapes
+
+
+kml2geojson==4.0.2
+shapely==1.6.1
+
+
+#Bloom Filter
+
+mmh3==2.5.1
+bitarray==0.8.1
+
