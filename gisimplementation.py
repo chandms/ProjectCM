@@ -33,7 +33,7 @@ gm=0
 config= configparser.ConfigParser()
 config.read("C:/Users/Pupul/Desktop/config.ini")
 logger= logging.getLogger()
-logging.basicConfig(filename=config.get("Section3","path2"),filemode='w',level=logging.DEBUG,format=('%(asctime)s %(message)s'),datefmt='%m/%d/%Y %I:%M:%S %p')
+logging.basicConfig(filename=config.get("Section3","path2"),filemode='w',level=logging.DEBUG,format=('%(asctime)s %(message)s'),datefmt='%d/%m/%Y %I:%M:%S %p')
 filter = LoggingErrorFilter()
 logger.addFilter(filter)
 
