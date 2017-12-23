@@ -2,7 +2,7 @@
 import logging
 
 
-GLOBAL_VERBOSITY = 0
+GLOBAL_VERBOSITY = 1
 
 class LoggingErrorFilter(logging.Filter):
   def filter(self, record):
